@@ -1,0 +1,77 @@
+.parking
+{
+    display:flex;
+    justify-content: flex-start;
+}
+.accordion-header {
+    font-size: 22px;
+  }
+.header1
+{
+    padding: 20px;
+}
+
+
+
+li
+{
+    padding: 20px;    
+
+}
+a 
+{
+    color: black;
+   
+}
+img:hover 
+{
+  transform: scale(1.1);
+  transition: all 200ms ease;
+}
+/* unvisited link */
+a:link {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+   
+  }
+
+
+.accordion-item
+{
+    
+    font-size: 20px;   
+}
+
+body
+{
+    background-color: aqua;
+   
+}
+
+
+.header
+{
+    height: 50vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 10px 50px 10px;
+    background-color: aquamarine;
+}
+.main-nav
+{
+   
+    list-style: none;
+    font-size: 22px;
+    display: flex;
+    margin: 0;
+    background-color: rgb(79, 155, 130);
+    
+}
